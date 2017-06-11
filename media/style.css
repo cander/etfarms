@@ -1,0 +1,115 @@
+
+#pageHeader  {
+	position:					static;
+    text-align:                 center;
+	left:						2px;
+	top:						1px;
+	margin-left: 30px;
+
+} 
+#leftcol {
+	float: left;
+	width: 150px;
+	margin-left: 30px;
+	margin-top: 0px;
+	color: #000;
+	padding: 3px;
+	margin-bottom: 20px;
+}
+		
+
+#leftcol p, #leftcol li, #leftcol a {
+	font-size: 11px;
+}
+
+ul#navbar {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#navbar h2{
+    font-family: Georgia;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+	
+#content {
+	margin: 0px 15% 0 200px;
+	padding: 3px;
+	color: #000;
+	font-family: Verdana;
+	font-size: 11px;
+	background-color: #FFFFCC; 
+	}
+	
+
+#news {
+	font-family: Verdana;
+	font-size: 11px;
+}
+
+#news h2 {
+    font-size: 14px;
+}
+
+h2 a {
+	font-family: Georgia;
+}
+
+#footer {
+	clear: both;
+	width: 95%;
+	margin: 10px;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 12px;
+    font-weight: bold;
+	padding-bottom: 3px;
+	border-top: 1px solid #333;
+	color: #000;
+}
+	
+	
+body {
+	width: 97%;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+	color: #000;
+}
+	
+p, a {
+	font-family: Verdana;
+}
+	
+h1, h2, h3, h4, h5, h6 {
+	font-family: Georgia;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+td.thumbnail { padding-right: 15px;  
+               padding-bottom: 5px; 
+              padding-left: 5px;  
+              padding-top: 5px;
+}
+
+.pagination { text-align: right;
+              font-weight: bold;
+}
+
+/* these are used by the animal detail page, only */
+col#attribute { width: 10em; }
+.animal-attr { font-weight: bold; 
+               text-align: right;
+}
+.animal-val { text-align: left; }
+.animal-img { float: left; 
+              margin-right: 10px;  
+              margin-bottom: 10px; 
+              margin-left: 5px;
+}
