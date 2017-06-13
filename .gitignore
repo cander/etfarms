@@ -1,1 +1,7 @@
+_site
+.sass-cache
 *.swp
+.jekyll-metadata
+.bundle
+vendor
+.DS_Store
