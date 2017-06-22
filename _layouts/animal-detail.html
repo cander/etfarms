@@ -3,9 +3,71 @@ layout: default
 ---
 <h1>{{ page.long_name }}</h1>
 
-<p>Price: {{page.price}} </p>
+{% if page.primary_image %}
+    <img src="{{ page.primary_image.url }}"
+         alt="Picture of {{ page.long_name }}"
+         class="animal-img" width="200" height="200" >
+{% else %}
+   <em>No image available - should default to some stock outline</em>
+{% endif %}
+<!-- need some formatting/classes for the table content -->
+<!-- put the picture somewhere - e.g., to the left of this table -->
+<table>
+<colgroup>
+  <col id="attribute">
+  <col id="value">
+</colgroup>
+  <tr><td class="animal-attr">Sex</td>
+      <td class="animal-val">{{ page.gender }}</td></tr>
+  <tr><td class="animal-attr">Breed</td>
+      <td class="animal-val">{{ page.breed }}</td></tr>
+  <tr><td class="animal-attr">DOB</td>
+      <td class="animal-val">{{ page.dob }}</td></tr>
+  <tr><td class="animal-attr">Color</td>
+       <td class="animal-val">{{ page.color }}</td></tr>
+  <tr><td class="animal-attr">Dam</td>
+      <td class="animal-val">
+          {{ page.dam_name }}
+      </td></tr>
+  <tr><td class="animal-attr">Sire</td>
+      <td class="animal-val">
+          {{ page.sire }}
+      </td></tr>
+
+  {% if page.is_bred %}
+      <tr><td class="animal-attr">Bred To</td>
+          <td class="animal-val">
+          {{ animal.bred_to }}
+          </td></tr>
+      <tr><td class="animal-attr">Est. Due Date</td>
+          <td class="animal-val">{{ page.due_date|date:"F, Y" }}</td></tr>
+  {% endif %}
+
+  <tr><td class="animal-attr">ARI #</td>
+      <td class="animal-val">
+          {% if page.ari_num %}
+              {{ page.ari_num }}
+          {% else %}
+              Pending
+          {% endif %}
+      </td></tr>
+
+  {% if page.type == '1H' %}
+    {% if page.breeding_fee %}
+      <tr><td class="animal-attr">Breeding Fee</td>
+          <td class="animal-val">{{ page.breeding_fee|currency }}</td></tr>
+    {% endif %}
+  {% endif %}
+
+  <tr><td class="animal-attr">Price</td>
+  {% if page.price %}
+      <td class="animal-val">{{ page.price|currency }}</td></tr>
+  {% else %}
+      <td class="animal-val">Not For Sale</td>
+  {% endif %}
+</table>
 
 {{ page.short_description }}
-<p />
+<P>
 
 {{ content }}
