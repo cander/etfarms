@@ -25,6 +25,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mastersparkle
 github_username:  cander
 
+# List of pages (in order) for the sidebar navigation
+header_pages:
+ - index.md
+ - about.md
+ - contact.md
+ - reading.md
+
 collections:
   animals:
     output: true
