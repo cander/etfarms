@@ -1,17 +1,16 @@
 ---
-layout: default
+layout: base
 ---
 <h1>{{ page.long_name }}</h1>
 
 {% if page.primary_image %}
-    <img src="{{ page.primary_image.url }}"
+    <img src="{{ site.url }}/media/{{ page.primary_image }}"
          alt="Picture of {{ page.long_name }}"
          class="animal-img" width="200" height="200" >
 {% else %}
    <em>No image available - should default to some stock outline</em>
 {% endif %}
-<!-- need some formatting/classes for the table content -->
-<!-- put the picture somewhere - e.g., to the left of this table -->
+
 <table>
 <colgroup>
   <col id="attribute">
