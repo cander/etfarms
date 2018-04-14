@@ -3,9 +3,9 @@ layout: animal-detail
 long_name: El Barto
 short_name: bart
 dob: 2002-09-11
-gender: M
-breed: H
-color: W
+gender: Male
+breed: Huacaya
+color: White
 type: 1H
 ari_num: 1375305
 short_description: El Barto is Glacial Storm's son. He has gorgeous, crimpy fine fleece
