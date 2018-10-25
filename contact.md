@@ -79,6 +79,6 @@ zoom out to see more context and/or click on the "View Larger Map" link.</p>
 -->
 
 <center>
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://web.archive.org/web/20140911052717if_/http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;om=1&amp;s=AARTsJrn8_P4Obgng02NfRKhyyQhtvTO9A&amp;msa=0&amp;msid=105011442651821914347.00000111ca7dc756f9f92&amp;ll=44.821344,-123.324344&amp;spn=0.010654,0.018239&amp;z=15&amp;output=embed"></iframe><br/><small><a href="http://web.archive.org/web/20140911052717/http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;om=1&amp;msa=0&amp;msid=105011442651821914347.00000111ca7dc756f9f92&amp;ll=44.821344,-123.324344&amp;spn=0.010654,0.018239&amp;z=15&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;om=1&amp;s=AARTsJrn8_P4Obgng02NfRKhyyQhtvTO9A&amp;msa=0&amp;msid=105011442651821914347.00000111ca7dc756f9f92&amp;ll=44.821344,-123.324344&amp;spn=0.010654,0.018239&amp;z=15&amp;output=embed"></iframe><br/><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;om=1&amp;msa=0&amp;msid=105011442651821914347.00000111ca7dc756f9f92&amp;ll=44.821344,-123.324344&amp;spn=0.010654,0.018239&amp;z=15&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </center>
 
