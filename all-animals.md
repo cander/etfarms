@@ -15,10 +15,8 @@ permalink: /animals/
                      alt="Picture of {{ animal.long_name }}"
                      class="thumbnail"
                      width="80" height="80">
-            {% else %}
-              <em>default</em>
+              </a>
             {% endif %}
-            </a>
           </td>
           <td>
                 <a href="/animals/{{ animal.short_name }}">
