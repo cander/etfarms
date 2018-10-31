@@ -3,10 +3,18 @@ layout: base
 title: Home Page
 permalink: /
 ---
-<h2>Pardon our dust</h2>
-<p>Due to some technical difficulties, we're in the process of fixing the
-web site.  We'll be back real soon.  In the meantime, feel free to reach out to
-us via email (<a href="mailto:info@etfarms.com">info@etfarms.com</a>) or visit our 
-<a href="https://www.facebook.com/EvergreenTerraceFarms/">Facbook page</a>.
-</p>
-<p>Thanks, and sorry again for the mess. Maren and Charles.</p>
+<h1>Evergreen Terrace Farms Home Page</h1>
+<a href="/"> <img src="media/alpacabanner.jpg" border="0"/></a>
+
+<p>Nestled in the Willamette Valley, Oregon's wine country, Evergreen
+Terrace Farms is just fifteen miles west of Salem, Oregon, and only five
+miles from Western Oregon University.</p>
+
+<p>At Evergreen Terrace Farms, we breed Huycaya alpacas for colored,
+ribbon-winning fleeces. We offer breeding and non-breeding (fiber) alpaca
+stock in a spectrum of colors, as well as stud services from our
+color-producing alpaca studs.</p>
+
+<p>Please come and visit us! <a href="contact">Directions and contact
+information</a> are available via the links to the right. </p>
+<br>
