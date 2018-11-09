@@ -58,7 +58,7 @@ about a quarter mile until it T's.&nbsp; </p>
 
 <p>Turn right on Fishback road - gravel.&nbsp; Go 1.5 miles.&nbsp; 
 
-On the right, there will be a large, brick gate way.  There will also
+On the right, there will be a large, brick gateway.  There will also
 be an unmarked gravel road going left.&nbsp; 
 Take the gravel road up the hill.&nbsp; It hair-pins to the left, keep
 following it.&nbsp; Just after our neighbor's vineyard and tall fence, turn right up the next unmarked "road" (technically a
