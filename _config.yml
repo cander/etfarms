@@ -28,6 +28,7 @@ github_username:  cander
 # List of pages (in order) for the sidebar navigation
 header_pages:
  - index.md
+ - all-animals.md
  - about.md
  - contact.md
  - reading.md
