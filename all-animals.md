@@ -10,7 +10,7 @@ permalink: /animals/
         <tr>
           <td class="thumbnail">
             {% if animal.primary_image %}
-              <a href="/animals/{{ animal.short_name }}">
+              <a href="/animals/{{ animal.short_name }}.html">
                 <img src="{{ site.url }}/media/{{ animal.primary_image }}"
                      alt="Picture of {{ animal.long_name }}"
                      class="thumbnail"
@@ -19,7 +19,7 @@ permalink: /animals/
             {% endif %}
           </td>
           <td>
-                <a href="/animals/{{ animal.short_name }}">
+                <a href="/animals/{{ animal.short_name }}.html">
                 {{ animal.long_name }} </a>
             <br>{{ animal.gender }}
             <br>{{ animal.short_description }}
