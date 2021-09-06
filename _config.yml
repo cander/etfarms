@@ -48,3 +48,6 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor
+  - deploy.sh
+  - deploy-wf.sh
+  - tf
