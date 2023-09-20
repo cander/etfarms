@@ -63,7 +63,7 @@ be an unmarked gravel road going left.&nbsp;
 Take the gravel road up the hill.&nbsp; It hair-pins to the left, keep
 following it.&nbsp; Just after our neighbor's vineyard and tall fence, turn right up the next unmarked "road" (technically a
 driveway); Go up the
-hill.&nbsp; You'll see our yellow house with blue trim.&nbsp; That's it.&nbsp;
+hill. You'll see our blue house with white trim on the left. That's it.
 </p>
 
 <p>Below is a map of the last bit where you turn off of Fishback. (It's in
@@ -71,12 +71,6 @@ hybrid satellite mode because these roads aren't in the map database.) You can
 zoom out to see more context and/or click on the "View Larger Map" link.</p>
 
 <br>
-
-<!--
-<p>Here's a map adapted from some online map service; You can't actually find us with MapQuest or Yahoo! Maps. </p>
-
-<p align="center"><img src="graphics/fishbackroadsm.gif" width="432" height="334"></p>
--->
 
 <center>
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;om=1&amp;s=AARTsJrn8_P4Obgng02NfRKhyyQhtvTO9A&amp;msa=0&amp;msid=105011442651821914347.00000111ca7dc756f9f92&amp;ll=44.821344,-123.324344&amp;spn=0.010654,0.018239&amp;z=15&amp;output=embed"></iframe><br/><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;om=1&amp;msa=0&amp;msid=105011442651821914347.00000111ca7dc756f9f92&amp;ll=44.821344,-123.324344&amp;spn=0.010654,0.018239&amp;z=15&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
